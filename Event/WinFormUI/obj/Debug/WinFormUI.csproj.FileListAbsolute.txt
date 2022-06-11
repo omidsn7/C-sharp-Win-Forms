@@ -1,0 +1,15 @@
+E:\projects\C#\New folder\Event\WinFormUI\bin\Debug\WinFormUI.exe.config
+E:\projects\C#\New folder\Event\WinFormUI\bin\Debug\WinFormUI.exe
+E:\projects\C#\New folder\Event\WinFormUI\bin\Debug\WinFormUI.pdb
+E:\projects\C#\New folder\Event\WinFormUI\bin\Debug\DemoLibrary.dll
+E:\projects\C#\New folder\Event\WinFormUI\bin\Debug\DemoLibrary.pdb
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.csproj.SuggestedBindingRedirects.cache
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.Transactions.resources
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.exe
+E:\projects\C#\New folder\Event\WinFormUI\obj\Debug\WinFormUI.pdb

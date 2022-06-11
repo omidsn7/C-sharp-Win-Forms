@@ -1,0 +1,21 @@
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.csprojAssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.Form1.resources
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.Properties.Resources.resources
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.csproj.GenerateResource.cache
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\bin\Debug\ASYNCawait.exe.config
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\bin\Debug\ASYNCawait.exe
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\bin\Debug\ASYNCawait.pdb
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.exe
+C:\Users\O_sorayaee\source\repos\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.pdb
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\bin\Debug\ASYNCawait.exe.config
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\bin\Debug\ASYNCawait.exe
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\bin\Debug\ASYNCawait.pdb
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.csproj.SuggestedBindingRedirects.cache
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.Form1.resources
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.Properties.Resources.resources
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.csproj.GenerateResource.cache
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.exe
+E:\projects\C#\New folder\ASYNCawait\ASYNCawait\obj\Debug\ASYNCawait.pdb

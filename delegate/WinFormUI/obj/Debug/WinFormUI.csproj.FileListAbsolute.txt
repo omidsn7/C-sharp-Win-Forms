@@ -1,0 +1,27 @@
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\O_sorayaee\Desktop\delegate\WinFormUI\obj\Debug\WinFormUI.pdb
+E:\projects\C#\New folder\delegate\WinFormUI\bin\Debug\WinFormUI.exe.config
+E:\projects\C#\New folder\delegate\WinFormUI\bin\Debug\WinFormUI.exe
+E:\projects\C#\New folder\delegate\WinFormUI\bin\Debug\WinFormUI.pdb
+E:\projects\C#\New folder\delegate\WinFormUI\bin\Debug\DemoLibrary.dll
+E:\projects\C#\New folder\delegate\WinFormUI\bin\Debug\DemoLibrary.pdb
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.SuggestedBindingRedirects.cache
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.exe
+E:\projects\C#\New folder\delegate\WinFormUI\obj\Debug\WinFormUI.pdb

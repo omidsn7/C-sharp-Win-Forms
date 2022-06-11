@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80d4a596-3d7a-40be-8543-1a25d56b89ff": {
+      "ProjectGuid": "80d4a596-3d7a-40be-8543-1a25d56b89ff",
+      "DisplayName": "WinFormUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

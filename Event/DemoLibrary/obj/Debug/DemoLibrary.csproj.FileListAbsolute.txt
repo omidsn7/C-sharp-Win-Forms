@@ -1,0 +1,6 @@
+E:\projects\C#\New folder\Event\DemoLibrary\bin\Debug\DemoLibrary.dll
+E:\projects\C#\New folder\Event\DemoLibrary\bin\Debug\DemoLibrary.pdb
+E:\projects\C#\New folder\Event\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\Event\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\Event\DemoLibrary\obj\Debug\DemoLibrary.dll
+E:\projects\C#\New folder\Event\DemoLibrary\obj\Debug\DemoLibrary.pdb

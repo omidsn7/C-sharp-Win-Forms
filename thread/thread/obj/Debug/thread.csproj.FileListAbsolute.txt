@@ -1,0 +1,7 @@
+C:\Users\O_sorayaee\source\repos\thread\thread\bin\Debug\thread.exe.config
+C:\Users\O_sorayaee\source\repos\thread\thread\bin\Debug\thread.exe
+C:\Users\O_sorayaee\source\repos\thread\thread\bin\Debug\thread.pdb
+C:\Users\O_sorayaee\source\repos\thread\thread\obj\Debug\thread.csprojAssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\thread\thread\obj\Debug\thread.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\thread\thread\obj\Debug\thread.exe
+C:\Users\O_sorayaee\source\repos\thread\thread\obj\Debug\thread.pdb

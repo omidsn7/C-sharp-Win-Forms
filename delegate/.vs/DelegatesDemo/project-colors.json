@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e99f86d7-a6f2-46a4-870c-1ddc12f32864": {
+      "ProjectGuid": "e99f86d7-a6f2-46a4-870c-1ddc12f32864",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 0
+    },
+    "4ca4f857-ee02-48b8-b04d-2feb0e4b93ae": {
+      "ProjectGuid": "4ca4f857-ee02-48b8-b04d-2feb0e4b93ae",
+      "DisplayName": "WinFormUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

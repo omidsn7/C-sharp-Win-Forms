@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8aa8793-d2db-49c9-ba2f-99cc24c9cbc9": {
+      "ProjectGuid": "e8aa8793-d2db-49c9-ba2f-99cc24c9cbc9",
+      "DisplayName": "ASYNCawait",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
